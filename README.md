@@ -9,6 +9,10 @@ REINFORCE algorithm is the most basic policy grdient method that applies likelih
 
 <img src="https://github.com/coldhenry/RL-REINFORCE-Pytorch/blob/main/pic/pseudo.png" weight="638" height="231">
 
+However, in my implementation, the policy gradient has combined with a baseline to increase stability. It is modified as followed:
+
+<img src="https://github.com/coldhenry/RL-REINFORCE-Pytorch/blob/main/pic/baseline.jpg" weight="626" height="100">
+
 ## Environment and Results
 * Discrete Action space : CartPole-v0
 * Continuous Action space: 2-link arm
