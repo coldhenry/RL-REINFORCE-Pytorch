@@ -13,7 +13,7 @@ REINFORCE algorithm is the most basic policy grdient method that applies likelih
 * Discrete Action space : CartPole-v0
 * Continuous Action space: 2-link arm
 
-<img src="https://github.com/coldhenry/RL-REINFORCE-Pytorch/blob/main/pic/demo.jpg" weight="561" height="560">
+<img src="https://github.com/coldhenry/RL-REINFORCE-Pytorch/blob/main/pic/demo.png" weight="561" height="560">
 
 
 ## Reference 
